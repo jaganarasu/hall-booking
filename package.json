@@ -1,0 +1,24 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "hall booking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaganarasu/hall-booking.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaganarasu/hall-booking/issues"
+  },
+  "homepage": "https://github.com/jaganarasu/hall-booking#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.3"
+  }
+}
