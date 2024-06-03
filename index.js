@@ -5,7 +5,7 @@ const app = express();
 app.use(bodyParser.json());
 /*
 
-Postman documentation url -  
+Postman documentation url -  https://documenter.getpostman.com/view/35977308/2sA3Qy5UDm
 
 */
 //creating variables for storing data
